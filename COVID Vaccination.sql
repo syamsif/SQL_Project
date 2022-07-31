@@ -1,3 +1,7 @@
+--This project show my ability to use SQL for data exploration
+--Data about COVID per day downloaded from https://ourworldindata.org/covid-vaccinations
+--I splitted the dataset into 2 Excel File (contains data of deaths and vaccinated peoples) just to demonstrate JOIN in the query
+
 --Checking imported xlsx file
 SELECT *
 FROM [Portfolio Project]..covid_death
